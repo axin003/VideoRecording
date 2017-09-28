@@ -1,0 +1,2 @@
+# VideoRecording
+这是一个视频录制的简单功能demo,使用MediaRecorder+SurfaceView
